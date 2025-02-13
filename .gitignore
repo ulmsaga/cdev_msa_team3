@@ -1,25 +1,2 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+target/
 target/*# Directorieshs_err_pid*# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml*.ear*.war*.jar# Package Files #.mtj.tmp/# Mobile Tools for Java (J2ME)*.ctxt# BlueJ files*.log# Log file*.class# Compiled class file# .gitignore
