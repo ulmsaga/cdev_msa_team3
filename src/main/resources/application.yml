@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: accounts
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # local
+    url: jdbc:mysql://192.168.100.221:30306/pemdb1?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    # prod
+    # url: jdbc:mysql://mysql:3306/pemdb1
+    username: root
+    password: rootpassword
+server:
+  port: 9090
+  servlet:
+    context-path: /accounts
