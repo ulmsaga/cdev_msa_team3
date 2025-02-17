@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mobigen.group1.team3</groupId>
 	<artifactId>accounts</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.2.20</version>
 	<name>accounts</name>
 	<description>day1</description>
 	<url/>
@@ -78,7 +78,7 @@
 	</dependencies>
 
 	<build>
-		 <finalName>accounts</finalName>
+		 <finalName>accounts-by-jenkins</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
