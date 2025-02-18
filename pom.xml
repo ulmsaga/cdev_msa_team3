@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mobigen.group1.team3</groupId>
 	<artifactId>accounts</artifactId>
-	<version>0.2.20</version>
+	<version>0.2.21</version>
 	<name>accounts</name>
 	<description>day1</description>
 	<url/>
