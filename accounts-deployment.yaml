@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: accounts-service-by-jenkins
-        image: k8s-vga-worker1:5000/group1-team3-accounts-service-by-jenkins:v0.2.20
+        image: k8s-vga-worker1:5000/group1-team3-accounts-service-by-jenkins:latest
         imagePullPolicy: Always #IfNotPresent
         ports:
         - containerPort: 9095
